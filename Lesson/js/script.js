@@ -4,7 +4,7 @@
 // ----------------------------------//
 // ----------------------------------//
 
-// const message = "JavaScript is awesome!";
+// const message = 'JavaScript is awesome!';
 
 // Виведення
 
@@ -16,14 +16,14 @@
 
 // confirm
 
-// const isConfirm = confirm("Please confirm reservation");
+// const isConfirm = confirm('Please confirm reservation');
 // console.log(isConfirm);
 
-// const test = confirm("Yes or no?");
+// const test = confirm('Yes or no?');
 // console.log(test);
 
 // prompt
-// const userName = prompt("Please enter your name:");
+// const userName = prompt('Please enter your name:');
 // console.log(userName);
 
 // const number = prompt("Please enter number");
