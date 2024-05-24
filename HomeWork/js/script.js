@@ -76,3 +76,9 @@
 
 //Зробіть сервіс який отримує тризначне число
 //Поверніть користувачу сумму цих чисел
+
+// let num = Number.parseInt(Math.random() * (1000 - 100) + 100);
+// console.log(num);
+// let sum =
+//   (Math.floor(num / 100) % 10) + (Math.floor(num / 10) % 10) + (num % 10);
+// console.log(sum);
